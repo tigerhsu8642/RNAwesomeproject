@@ -1,0 +1,16 @@
+1、官网操作
+cd AwesomeProject
+yarn android
+# 或者
+yarn react-native run-android
+
+2、搜索powershell，右键以管理员身份运行
+
+打入  ：set-ExecutionPolicy RemoteSigned
+
+查看执行策略：get-ExecutionPolicy
+
+可获得 yarn 脚本执行权限
+
+git config --global user.name "tigerhsu8642" 
+git config --global user.email 17277495@qq.com
