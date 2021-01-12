@@ -6,7 +6,7 @@ React Native跨平台项目
 执行程序命令
 cd AwesomeProject
 yarn android
-# 或者
+或者
 yarn react-native run-android
 
 2、如果出现PowerShell yarn : 无法加载文件 C:\Users\Admin\AppData\Roaming\npm\yarn.ps1,因为在此系统上禁止运行脚本错误
